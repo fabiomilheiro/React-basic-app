@@ -7,7 +7,7 @@ export const Form = ({ onChange }: { onChange: (value: string) => void }) => {
     <div
       style={{
         border: '3px solid blue',
-        marginTop: 10,
+        marginTop: 50,
         padding: 10,
       }}
     >
