@@ -13,6 +13,7 @@ export default function App() {
           component
         </li>
       </ul>
+      <img src="/components/.png" />
     </div>
   );
 }
