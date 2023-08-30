@@ -13,7 +13,7 @@ export default function App() {
           component
         </li>
       </ul>
-      <img src="/components/.png" />
+      <img src="https://raw.githubusercontent.com/fabiomilheiro/React-basic-app/main/public/components.png" />
     </div>
   );
 }
